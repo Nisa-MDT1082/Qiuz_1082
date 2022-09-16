@@ -1,0 +1,15 @@
+/Users/nisasaengthong/Desktop/KMUTT/Y2_T1/MDT 221/Quiz/bin/Debug/net6.0/Quiz
+/Users/nisasaengthong/Desktop/KMUTT/Y2_T1/MDT 221/Quiz/bin/Debug/net6.0/Quiz.deps.json
+/Users/nisasaengthong/Desktop/KMUTT/Y2_T1/MDT 221/Quiz/bin/Debug/net6.0/Quiz.runtimeconfig.json
+/Users/nisasaengthong/Desktop/KMUTT/Y2_T1/MDT 221/Quiz/bin/Debug/net6.0/Quiz.dll
+/Users/nisasaengthong/Desktop/KMUTT/Y2_T1/MDT 221/Quiz/bin/Debug/net6.0/Quiz.pdb
+/Users/nisasaengthong/Desktop/KMUTT/Y2_T1/MDT 221/Quiz/obj/Debug/net6.0/Quiz.csproj.AssemblyReference.cache
+/Users/nisasaengthong/Desktop/KMUTT/Y2_T1/MDT 221/Quiz/obj/Debug/net6.0/Quiz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nisasaengthong/Desktop/KMUTT/Y2_T1/MDT 221/Quiz/obj/Debug/net6.0/Quiz.AssemblyInfoInputs.cache
+/Users/nisasaengthong/Desktop/KMUTT/Y2_T1/MDT 221/Quiz/obj/Debug/net6.0/Quiz.AssemblyInfo.cs
+/Users/nisasaengthong/Desktop/KMUTT/Y2_T1/MDT 221/Quiz/obj/Debug/net6.0/Quiz.csproj.CoreCompileInputs.cache
+/Users/nisasaengthong/Desktop/KMUTT/Y2_T1/MDT 221/Quiz/obj/Debug/net6.0/Quiz.dll
+/Users/nisasaengthong/Desktop/KMUTT/Y2_T1/MDT 221/Quiz/obj/Debug/net6.0/refint/Quiz.dll
+/Users/nisasaengthong/Desktop/KMUTT/Y2_T1/MDT 221/Quiz/obj/Debug/net6.0/Quiz.pdb
+/Users/nisasaengthong/Desktop/KMUTT/Y2_T1/MDT 221/Quiz/obj/Debug/net6.0/Quiz.genruntimeconfig.cache
+/Users/nisasaengthong/Desktop/KMUTT/Y2_T1/MDT 221/Quiz/obj/Debug/net6.0/ref/Quiz.dll
